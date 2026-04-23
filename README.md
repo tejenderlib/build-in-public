@@ -1,8 +1,11 @@
+# Build in Public
+
+This is my personal space where I document what I build, what I learn, and how I improve over time. It’s not just about finished projects — it’s about the process, the mistakes, and the consistency behind them. 
 > *This work represents deliberate building and problem-solving — guided by independent thinking and supported by tools, not defined by them.*
 ---
 #### 🔗 Connect
 
-- GitHub: https://github.com/tejender-lib  
+- Gmail: tejender099@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/tejenderthakur  
 
 ---
