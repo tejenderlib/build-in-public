@@ -37,7 +37,7 @@ $(document).ready(function () {
     // ─────────────────────────────────────────────────────────────
     var blogData = {
         devjournal: [
-            { name: 'Phishing Awareness: How to Detect Suspicious Links (Part1)',    tag: 'tools',    date: 'Apr 12 2025', title: 'Building ThreatHunter CLI', href: 'https://medium.com/@invasiveminds/phishing-awareness-what-is-zphisher-and-how-to-detect-suspicious-links-part1-ca004d238b93', locked: false },
+            { name: 'Phishing Awareness: How to Detect Suspicious Links (Part1)',    tag: 'tools',    date: 'Apr 12 2025', title: 'Building ThreatHunter CLI', href: 'https://medium.com/@invasiveminds/phishing-awareness-what-is-zphisher-and-how-to-detect-suspicious-links-part1-ca004d238b93', locked: true },
             { name: 'gcp-sql-learning-log', tag: 'python',   date: 'Mar 05 2026', title: 'Google Cloud Arcade — My Run',     href: 'https://github.com/tejenderlib/gcp-sql-learning-log', locked: false },
             { name: 'ongoing', tag: 'cloud',    date: 'Feb 18 2026', title: 'Google Cloud Arcade — My Run',       href: '#', locked: true  },
             { name: 'ongoing', tag: 'security', date: 'Jan 20 2026', title: 'Notes from the CDI Internship',      href: '#', locked: true  }
