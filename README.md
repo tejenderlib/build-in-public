@@ -6,7 +6,6 @@ This is my personal space where I document what I build, what I learn, and how I
 ---
 ### 🔗 Connect
 
-- Gmail: tejender099@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tejenderthakur  
 
 ---
